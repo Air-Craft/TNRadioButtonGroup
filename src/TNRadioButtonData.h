@@ -6,6 +6,7 @@
 //  Copyright (c) 2014 Frederik Jacques. All rights reserved.
 //
 
+#import <UIKit/UIKit.h>
 #import <Foundation/Foundation.h>
 
 @interface TNRadioButtonData : NSObject
